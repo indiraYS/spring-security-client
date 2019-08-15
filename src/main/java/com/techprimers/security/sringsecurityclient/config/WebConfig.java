@@ -41,4 +41,5 @@ public class WebConfig implements WebMvcConfigurer {
                 .addResourceLocations("/resources/");
     }
     //test git
+    //test 2
 }
