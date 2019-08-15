@@ -40,5 +40,5 @@ public class WebConfig implements WebMvcConfigurer {
         registry.addResourceHandler("/resources/**")
                 .addResourceLocations("/resources/");
     }
-
+    //test git
 }
